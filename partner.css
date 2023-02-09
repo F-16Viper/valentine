@@ -4,6 +4,11 @@ p{
     opacity: 0.9;
 }
 
+.p {
+    font-size: 16px;
+    color: red;
+}
+
 button{
     cursor: pointer;
 }
